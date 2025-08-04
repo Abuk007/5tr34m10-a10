@@ -1,6 +1,6 @@
 services:
   aiostreams:
-    image: ghcr.io/Abuk007/5tr34m10-a10:latest
+    image: ghcr.io/abuk007/5tr34m10-a10:latest
     container_name: aiostreams
     restart: unless-stopped
     ports:
